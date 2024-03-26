@@ -4,3 +4,4 @@
 # WEEK 2 ASSIGNMENT 1:https://github.com/kasurirahul03/AIML2024/blob/main/2203A51679_week2_Asmt1.ipynb
 # WEEK 3 ASSIGNMENT 1:https://github.com/kasurirahul03/AIML2024/blob/main/week3_2201A51679.ipynb
 # ML Assignment2 :https://github.com/kasurirahul03/AIML2024/blob/main/2203A51679mlasmt2.ipynb
+# ML ASSIGNMENT3 :
